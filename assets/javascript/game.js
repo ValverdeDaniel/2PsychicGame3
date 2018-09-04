@@ -1,4 +1,8 @@
+//whats left:
+    // reset game function, the thought behind this was if I can atleast figure out how to reset the allGuessedLetters and Guesses Remaining using a function then I could apply ResetGame to atleast when the user won, next I would need to figure out how to reset the game when the users guesses reached 0 and add a loss only in that instance. I could not figure out the first therefore could not figure out the ladder.
+    //I tried turning guesses into functions and everything into functions but that messed everytihng up so i went back in time to a place where stuff was not efficient but kind of worked!
 
+    //begin working code
     //create an array that lists out all of the options in the alphabet [a-z]
     var computerChoices = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
     
